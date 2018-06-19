@@ -6,6 +6,9 @@ cryptography
 Pillow
 netaddr
 scapy
+Automat
+constantly
+incremental
 twisted
 dnslib
 lxml
