@@ -21,8 +21,6 @@ configobj
 Flask
 dnspython
 beautifulsoup4
---no-binary capstone
-capstone
 python-magic
 msgpack-python
 requests
